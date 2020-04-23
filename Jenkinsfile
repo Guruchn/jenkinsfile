@@ -1,3 +1,3 @@
 node {
-   echo 'Hello Earth'
+   echo 'Hello Earth today'
 }
